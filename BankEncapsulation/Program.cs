@@ -6,8 +6,16 @@
         {
             
             BankAccount account1 = new BankAccount();
-            account1. Deposit(500);
-            account1. GetBalance();
+           
+            account1.Deposit(500.75);
+            
+            account1.AdditionalDeposits();
+           
+
+            
+
+
+
         }
 
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\bankencapsulation\\bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\bankencapsulation\\bankencapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\bankencapsulation\\bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\Program.cs",
               "RelativeDocumentMoniker": "BankEncapsulation\\Program.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\Program.cs",
               "RelativeToolTip": "BankEncapsulation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T16:05:11.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\BankAccount.cs",
               "RelativeDocumentMoniker": "BankEncapsulation\\BankAccount.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\BankAccount.cs",
               "RelativeToolTip": "BankEncapsulation\\BankAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T14:31:12.36Z"
+              "WhenOpened": "2024-06-13T14:31:12.36Z",
+              "EditorCaption": ""
             }
           ]
         }
